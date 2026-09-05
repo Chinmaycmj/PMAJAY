@@ -1,0 +1,6 @@
+{
+  "name": "PM-AJAY Livelihood Voice Assistant",
+  "description": "Accessible Voice AI interface and IVR assistant for PM-AJAY beneficiaries with Kannada, Hindi, and English multi-language support, mute assistance, and Android Compose prototype.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
